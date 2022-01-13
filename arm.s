@@ -1,5 +1,3 @@
-#
-# CMPUT 229 Student Submission License
 .include "common.s"
 # NOTE: for the below to work, you must delete the .include "common.s" from your arm_alu.s file
 .include "arm_alu.s"
